@@ -3,8 +3,8 @@
 class DB
 {
     private string $dbhost = 'ec2-35-163-49-195.us-west-2.compute.amazonaws.com';
-    private string $dbuser = 'ayuntamiento';
-    private string $dbpass = 'tamales1';
+    private string $dbuser = 'diego';
+    private string $dbpass = '761834925';
     private string $dbname = 'ayuntamiento';
 
     public function connect(): PDO

@@ -1,7 +1,6 @@
 <?php
 
-class Calendario
-
+class Fecha
 {
     public $id;
     public $mes;

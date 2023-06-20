@@ -8,7 +8,7 @@ require '../src/config/DB.php';
 
 $app = new \Slim\App;
 
-require '../src/routes/visitas.php';
+require '../src/routes/fechas.php';
 
 try {
     $app->run();
